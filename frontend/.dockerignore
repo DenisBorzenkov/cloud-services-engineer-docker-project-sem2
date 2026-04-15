@@ -1,0 +1,17 @@
+.git
+.github
+.gitignore
+.gitattributes
+Dockerfile
+.dockerignore
+README.md
+*.md
+node_modules
+dist
+coverage
+.idea
+.vscode
+*.log
+npm-debug.log*
+.DS_Store
+secrets/

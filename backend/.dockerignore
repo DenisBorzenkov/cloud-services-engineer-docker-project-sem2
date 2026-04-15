@@ -1,0 +1,17 @@
+.git
+.github
+.gitignore
+.gitattributes
+Dockerfile
+.dockerignore
+README.md
+*.md
+**/*_test.go
+**/mock
+**/mocks
+.idea
+.vscode
+bin/
+dist/
+*.log
+secrets/

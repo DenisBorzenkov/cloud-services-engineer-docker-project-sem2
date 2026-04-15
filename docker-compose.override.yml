@@ -1,0 +1,9 @@
+services:
+  backend:
+    environment:
+      LOG_LEVEL: debug
+
+  frontend:
+    build:
+      args:
+        VUE_APP_API_URL: /api
